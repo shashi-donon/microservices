@@ -1,0 +1,9 @@
+POST  http://localhost:5000/products/
+Content-Type: application/json
+
+{
+    "name":"Lenevo Laptop",
+    "description":"Lenovo - YOGA use the way you like",
+    "price": 40000,
+    "stock": 10
+}

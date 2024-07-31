@@ -1,0 +1,8 @@
+POST http://localhost:6000/cart
+
+Content-Type: "application/json"
+
+{
+    "item": "smartphone",
+    "price": 23455
+}
